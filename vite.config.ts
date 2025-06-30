@@ -15,6 +15,7 @@ export default defineConfig({
           ),
         ]
       : []),
+      
   ],
   resolve: {
     alias: {
@@ -34,4 +35,5 @@ export default defineConfig({
       deny: ["**/.*"],
     },
   },
+  base: process.env.VITE_BASE_PATH || "/Wira-AI",
 });

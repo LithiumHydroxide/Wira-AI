@@ -44,7 +44,7 @@ export default function Navigation({ onGetStarted }: NavigationProps) {
           <div className="flex items-center">
             <div className="text-2xl font-bold kenyan-green flex items-center">
               <Brain className="kenyan-orange mr-2" size={32} />
-              KenyaAI Jobs
+              Wira AI 
             </div>
           </div>
           

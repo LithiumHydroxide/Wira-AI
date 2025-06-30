@@ -104,7 +104,7 @@ export default function Footer() {
           className="border-t border-white/20 pt-8 flex flex-col md:flex-row justify-between items-center"
         >
           <p className="text-white/60 text-sm">
-            © 2024 KenyaAI Jobs. All rights reserved. Made with ❤️ in Kenya.
+            © 2025 Wira AI Jobs. All rights reserved. Made with ❤️ in Kenya.
           </p>
           <p className="text-white/60 text-sm mt-4 md:mt-0">
             Proudly serving Kenyan professionals nationwide.

@@ -35,7 +35,7 @@ export default function TestimonialsSection() {
       name: "Sarah Wanjiku",
       role: "Software Engineer at Safaricom",
       image: "https://images.unsplash.com/photo-1531123897727-8f129e1688ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=150&h=150&face",
-      testimonial: "KenyaAI Jobs helped me land my dream job at Safaricom! The ATS checker improved my resume score from 65% to 98%, and the interview coaching gave me the confidence I needed."
+      testimonial: "Wira AI Jobs helped me land my dream job at Safaricom! The ATS checker improved my resume score from 65% to 98%, and the interview coaching gave me the confidence I needed."
     },
     {
       name: "James Mwangi",

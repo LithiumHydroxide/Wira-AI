@@ -110,7 +110,7 @@ export default function HeroSection({ onGetStarted }: HeroSectionProps) {
             className="relative"
           >
             <img 
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=600" 
+              src="https://images.unsplash.com/photo-1633419798503-0b0c628f267c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" 
               alt="African professionals collaborating with technology" 
               className="rounded-2xl shadow-2xl w-full h-auto transform hover:scale-105 transition-all duration-500" 
             />

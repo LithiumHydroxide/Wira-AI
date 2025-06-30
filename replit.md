@@ -2,7 +2,7 @@
 
 ## Overview
 
-KenyaAI Jobs is a modern full-stack web application designed to empower Kenyan professionals with AI-powered career tools. The platform provides services including resume optimization, job matching, interview coaching, and application tracking. Built with a React frontend and Express.js backend, the application utilizes modern web technologies to deliver a seamless user experience.
+Wira AI Jobs is a modern full-stack web application designed to empower Kenyan professionals with AI-powered career tools. The platform provides services including resume optimization, job matching, interview coaching, and application tracking. Built with a React frontend and Express.js backend, the application utilizes modern web technologies to deliver a seamless user experience.
 
 ## System Architecture
 
